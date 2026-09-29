@@ -1,0 +1,3 @@
+Estudar Git de manhã
+Fazer atividade
+Revisar comandos
